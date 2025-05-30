@@ -75,7 +75,7 @@ Uso em cidades inteligentes (smart cities) para monitoramento preventivo.
 
 ## Simulação Online
 
-(https://wokwi.com/projects/432298715155035137)
+[Wokwi](https://wokwi.com/projects/432298715155035137)
 
 ## Organização do Código
 
