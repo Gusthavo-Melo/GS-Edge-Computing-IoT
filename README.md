@@ -28,6 +28,9 @@ Este código implementa um sistema de monitoramento de enchentes utilizando um s
 
 **Arduino Uno (ou compatível)** - Controlador principal do sistema.
 
+## Visualização
+
+<img src="https://1drv.ms/i/c/9e5ead4592d45130/ERFa6-O-UadLhk7VRO3F5EMBXcbF7QzLbDczF6gcLWy22A?e=bxhkpD">
 
 ## Operação do Sistema
 
