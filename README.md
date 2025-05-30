@@ -71,7 +71,7 @@ Uso em cidades inteligentes (smart cities) para monitoramento preventivo.
 
 ## Apresentação em Vídeo
 
-[Vídeo do Projeto](LINK_YOUTUBE)
+[Vídeo do Projeto](https://youtu.be/D7kVLXHS8O4)
 
 ## Simulação Online
 
